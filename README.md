@@ -1,4 +1,4 @@
-### DynamicEstimation_DiscreteTimeSurvivalData
+### DynamicEstimationDTSD
 
 Simulation codes for the paper "Dynamic estimation with random forests for discrete-time survival data"
 
