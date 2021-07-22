@@ -9,5 +9,5 @@ Simulation:
 - The example codes are given in run.R for reproducing the boxplots and main effects plots.
 
 Real dataset:
-- Dataset description (The real dataset is not open to public and cannot be shared).
+- Dataset description (The real dataset is **not** open to public and cannot be shared).
 - Codes to compute the AUC and ROC, as well as the Brier scores.
